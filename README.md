@@ -10,7 +10,7 @@ Ce dépôt contient tout ce dont vous avez besoin : l'installateur, le pas-à-pa
 fiches de tâches et les questionnaires. C'est **le logiciel** que nous évaluons, pas vous.
 
 > Ce projet est réalisé dans le cadre d'un projet technique à l'UQAM.
-> Responsable : [Nom], [programme] — [courriel] · Supervision : [Nom], [département]
+> Responsable : [Richard Day Santiago SOto], [MGL] — [courriel] · Supervision : [Mokadden Chihab], [Science]
 
 ---
 
