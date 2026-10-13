@@ -173,4 +173,5 @@ Mon Portail et dites : *correcte*, *partielle*, *fausse* ou *pas de réponse*.
 
 ---
 
-Fin des tâches. Merci ! Il reste les [questionnaires](../questionnaires/) et un court entretien.
+Fin des tâches. Merci ! Il reste les questionnaires, à remplir dans le
+**[formulaire en ligne](https://www.form-test.com)**, et un court entretien.

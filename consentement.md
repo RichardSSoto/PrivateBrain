@@ -60,4 +60,4 @@ Expérimentateur : ______________ Signature : ______________________
 ---
 
 *Ce formulaire est signé sur papier ou dans le formulaire en ligne envoyé par l'équipe :
-[lien du formulaire]. Ne déposez rien dans ce dépôt GitHub : il est public.*
+[https://www.form-test.com](https://www.form-test.com). Ne déposez rien dans ce dépôt GitHub : il est public.*

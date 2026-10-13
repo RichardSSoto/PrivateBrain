@@ -19,7 +19,7 @@ fiches de tâches et les questionnaires. C'est **le logiciel** que nous évaluon
 | Quand | Quoi | Durée | Documents |
 |---|---|---|---|
 | **1. Avant la séance** (chez vous) | Lire l'information et le consentement, installer l'application, installer Ollama et les 3 modèles, faire les 3 premières étapes de l'assistant de démarrage | 30 à 45 min (surtout du téléchargement) | [Avant de commencer](docs/00-avant-de-commencer.md) · [Installer](docs/01-installer.md) · [Ollama et modèles](docs/02-ollama-et-modeles.md) · [Premier démarrage](docs/03-premier-demarrage.md) |
-| **2. Pendant la séance** (avec un membre de l'équipe) | Créer votre espace, connecter vos sites, poser des questions, remplir les questionnaires | 70 à 85 min | Fiches remises pendant la séance : [fiches de tâches](test/fiches-taches.md), [aide-mémoire](test/aide-memoire.md), [questionnaires](questionnaires/) |
+| **2. Pendant la séance** (avec un membre de l'équipe) | Créer votre espace, connecter vos sites, poser des questions, remplir les questionnaires | 70 à 85 min | Fiches remises pendant la séance : [fiches de tâches](test/fiches-taches.md), [aide-mémoire](test/aide-memoire.md) · Réponses : [formulaire en ligne](https://www.form-test.com) |
 | **3. Après la séance** | Garder l'application ou l'effacer, désinstaller si vous le souhaitez | 5 min | [Guides de référence](#guides-de-référence) · [Après le test](docs/06-apres-le-test.md) |
 
 **Important — ne lisez pas à l'avance** les fiches de tâches ni les guides 04, 05 et 06 : pendant la
@@ -57,10 +57,21 @@ et la synchronisation.
 2. [Installer l'application](docs/01-installer.md) — Windows, macOS, Linux
 3. [Installer Ollama et les modèles](docs/02-ollama-et-modeles.md)
 4. [Premier démarrage](docs/03-premier-demarrage.md) — l'assistant de démarrage
-5. [Créer un espace et connecter vos sites](docs/04-espace-et-sites.md)
+5. [Créer un espace et connecter vos sites](docs/04-espace-et-sites.md) — connexion pas à pas à
+   [Moodle](docs/04-espace-et-sites.md#étape-2--connecter-moodle-uqam) et
+   [Mon Portail](docs/04-espace-et-sites.md#étape-3--ajouter-mon-portail-dans-le-même-espace)
+   (Microsoft UQAM, double authentification)
 6. [Poser des questions](docs/05-poser-des-questions.md) — sources, modèles, langues
 7. [Après le test](docs/06-apres-le-test.md) — effacer vos données, désinstaller
 8. [Dépannage](docs/depannage.md)
+
+## Formulaire de réponses
+
+**Répondez aux questionnaires ici : [https://www.form-test.com](https://www.form-test.com)**
+
+Le formulaire contient toutes les questions (profil, facilité d'utilisation, fonctionnalités,
+confidentialité). Indiquez votre **code participant** (ex. `P07`), jamais votre nom. L'entretien
+final se fait à l'oral.
 
 ## Documents de l'étude
 

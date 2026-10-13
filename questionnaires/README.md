@@ -2,9 +2,15 @@
 
 [← Accueil](../README.md)
 
-Les questionnaires sont remplis **dans le formulaire en ligne** envoyé par l'équipe
-([lien du formulaire]) ou sur papier pendant la séance. Les versions ci-dessous servent à les
-consulter. **Ne déposez pas vos réponses dans ce dépôt : il est public.**
+## Répondre
+
+**Formulaire en ligne : [https://www.form-test.com](https://www.form-test.com)**
+
+Toutes les questions des questionnaires 1 à 4 s'y trouvent. Indiquez votre **code participant**
+(ex. `P07`) quand il est demandé. Les versions ci-dessous servent seulement à consulter les
+questions. **Ne déposez pas vos réponses dans ce dépôt : il est public.**
+
+L'entretien (questionnaire 5) se fait à l'oral avec l'expérimentateur.
 
 | # | Questionnaire | Quand | Durée |
 |---|---|---|---|
