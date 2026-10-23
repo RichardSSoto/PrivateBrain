@@ -67,7 +67,7 @@ et la synchronisation.
 
 ## Formulaire de réponses
 
-**Répondez aux questionnaires ici : [https://www.form-test.com](https://www.form-test.com)**
+**Répondez aux questionnaires ici : [https://forms.cloud.microsoft/r/T62wfEBdgc](https://www.form-test.com)**
 
 Le formulaire contient toutes les questions (profil, facilité d'utilisation, fonctionnalités,
 confidentialité). Indiquez votre **code participant** (ex. `P07`), jamais votre nom. L'entretien
