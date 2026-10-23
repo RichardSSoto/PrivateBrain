@@ -4,7 +4,7 @@ Bienvenue et merci de participer à l’évaluation de **PrivateBrain** !
 
 PrivateBrain est un assistant intelligent qui peut consulter et comprendre le contenu de vos plateformes et sites Web habituels, notamment **Moodle, Mon Portail et d’autres site web**.
 
-Vous pouvez ensuite discuter avec PrivateBrain et lui poser des questions sur les informations disponibles sur ces plateformes. Par exemple, vous pouvez lui demander de retrouver une date d’examen ou de résumer les consignes d’un devoir.
+Vous pouvez ensuite interagir avec PrivateBrain et lui poser des questions sur les informations disponibles sur ces plateformes. Par exemple, vous pouvez lui demander de retrouver une date d’examen ou de résumer les consignes d’un devoir.
 
 **La confidentialité est au cœur de PrivateBrain**. L’outil fonctionne directement sur votre ordinateur : le modèle d’intelligence artificielle (LLM) est exécuté localement et les données consultées ne sont pas envoyées aux serveurs de l’équipe de développement.
 
