@@ -18,8 +18,8 @@ fiches de tâches et les questionnaires. C'est **le logiciel** que nous évaluon
 
 | Quand | Quoi | Durée | Documents |
 |---|---|---|---|
-| **1. Avant la séance** (chez vous) | Lire l'information et le consentement, installer l'application, installer Ollama et les 3 modèles, faire les 3 premières étapes de l'assistant de démarrage | 30 à 45 min (surtout du téléchargement) | [Avant de commencer](docs/00-avant-de-commencer.md) · [Installer](docs/01-installer.md) · **[Vidéo d'installation](docs/video/installation.mp4)** · [Ollama et modèles](docs/02-ollama-et-modeles.md) · [Premier démarrage](docs/03-premier-demarrage.md) |
-| **2. Pendant la séance** (avec un membre de l'équipe) | Créer votre espace, connecter vos sites, poser des questions, remplir les questionnaires | 70 à 85 min | Fiches remises pendant la séance : [fiches de tâches](test/fiches-taches.md), [aide-mémoire](test/aide-memoire.md) · Réponses : [formulaire en ligne](https://forms.cloud.microsoft/r/T62wfEBdgc) |
+| **1. Avant la séance** (chez vous) | Lire l'information et le consentement, installer l'application, installer Ollama et les 3 modèles, faire les 3 premières étapes de l'assistant de démarrage | 5 à 10 min (surtout du téléchargement) | [Avant de commencer](docs/00-avant-de-commencer.md) · [Installer](docs/01-installer.md) · **[Vidéo d'installation](docs/video/installation.mp4)** · [Ollama et modèles](docs/02-ollama-et-modeles.md) · [Premier démarrage](docs/03-premier-demarrage.md) |
+| **2. Pendant la séance** (avec un membre de l'équipe) | Créer votre espace, connecter vos sites, poser des questions, remplir les questionnaires | 10 à 15 min | Fiches remises pendant la séance : [fiches de tâches](test/fiches-taches.md), [aide-mémoire](test/aide-memoire.md) · Réponses : [formulaire en ligne](https://forms.cloud.microsoft/r/T62wfEBdgc) |
 | **3. Après la séance** | Garder l'application ou l'effacer, désinstaller si vous le souhaitez | 5 min | [Guides de référence](#guides-de-référence) · [Après le test](docs/06-apres-le-test.md) |
 
 **Important — ne lisez pas à l'avance** les fiches de tâches ni les guides 04, 05 et 06 : pendant la
