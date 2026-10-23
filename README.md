@@ -1,6 +1,6 @@
-# Tessera — Évaluation de PT2026 Desktop
+# PRIVATE BRAIN — Évaluation de Projet Technique
 
-Bienvenue, et merci de participer à l'évaluation de **PT2026 Desktop**, un assistant qui lit
+Bienvenue, et merci de participer à l'évaluation de **Private Brain**, un assistant qui lit
 **vos** sites universitaires (Moodle, Mon Portail, autres sites) et répond à vos questions à partir
 de ce qu'il y a trouvé. Tout se passe **sur votre ordinateur** : le modèle d'intelligence
 artificielle fonctionne localement (Ollama) et aucune donnée n'est envoyée à un serveur de
@@ -35,10 +35,10 @@ Les installateurs sont dans la section **[Releases](https://github.com/RichardSS
 
 | Système | Fichier à télécharger |
 |---|---|
-| Windows 10 / 11 (64 bits) | `PT2026-Desktop_<version>_x64-setup.exe` |
-| macOS (Apple Silicon : M1, M2, M3, M4) | `PT2026-Desktop_<version>_aarch64.dmg` |
-| macOS (Intel) | `PT2026-Desktop_<version>_x64.dmg` |
-| Linux (Ubuntu 22.04 ou équivalent) | `PT2026-Desktop_<version>_amd64.AppImage` ou `.deb` |
+| Windows 10 / 11 (64 bits) | `Private Brain_<version>_x64-setup.exe` |
+| macOS (Apple Silicon : M1, M2, M3, M4) | `Private Brain_<version>_aarch64.dmg` |
+| macOS (Intel) | `Private Brain_<version>_x64.dmg` |
+| Linux (Ubuntu 22.04 ou équivalent) | `Private Brain_<version>_amd64.AppImage` ou `.deb` |
 
 Le fichier `SHA256SUMS.txt` permet de vérifier que le téléchargement n'a pas été altéré (voir
 [Installer](docs/01-installer.md#vérifier-le-téléchargement-facultatif)).
