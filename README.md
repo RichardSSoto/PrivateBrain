@@ -1,16 +1,21 @@
-# PRIVATE BRAIN — Évaluation de Projet Technique
+# PrivateBrain — Évaluation de Projet Technique
 
-Bienvenue, et merci de participer à l'évaluation de **Private Brain**, un assistant qui lit
-**vos** sites universitaires (Moodle, Mon Portail, autres sites) et répond à vos questions à partir
-de ce qu'il y a trouvé. Tout se passe **sur votre ordinateur** : le modèle d'intelligence
-artificielle fonctionne localement (Ollama) et aucune donnée n'est envoyée à un serveur de
-l'équipe.
+Bienvenue et merci de participer à l’évaluation de **PrivateBrain** !
 
-Ce dépôt contient tout ce dont vous avez besoin : l'installateur, le pas-à-pas d'installation, les
-fiches de tâches et les questionnaires. C'est **le logiciel** que nous évaluons, pas vous.
+PrivateBrain est un assistant intelligent qui peut consulter et comprendre le contenu de vos plateformes et sites Web habituels, notamment **Moodle, Mon Portail et d’autres site web.
+
+Vous pouvez ensuite discuter avec PrivateBrain et lui poser des questions sur les informations disponibles sur ces plateformes. Par exemple, vous pouvez lui demander de retrouver une date d’examen ou de résumer les consignes d’un devoir.
+
+**La confidentialité est au cœur de PrivateBrain**. L’outil fonctionne directement sur votre ordinateur : le modèle d’intelligence artificielle (LLM) est exécuté localement et les données consultées ne sont pas envoyées aux serveurs de l’équipe de développement.
+
+Ce dépôt contient toutes les ressources nécessaires à votre participation : **l’installateur, le guide d’installation étape par étape, les fiches de tâches et les questionnaires**.
+
+L’objectif de cette évaluation est de recueillir vos impressions sur le fonctionnement de l’outil, son utilité et sa facilité d’utilisation. **C’est le logiciel que nous évaluons, pas vous**. Il n’y a pas de bonne ou de mauvaise réponse : vos commentaires et vos difficultés nous aideront à améliorer PrivateBrain.
+
 
 > Ce projet est réalisé dans le cadre d'un projet technique à l'UQAM.
-> Responsable : [Richard Day Santiago SOto], [MGL] — [courriel] · Supervision : [Mokadden Chihab], [Science]
+> Responsable : [Richard Day Santiago SOto], [MGL] — [santiago_soto.richard_day@courrier.uqam.ca] · 
+> Supervision : [Mokadden Chihab] — [mokaddem.chihab@uqam.ca] · 
 
 ---
 
