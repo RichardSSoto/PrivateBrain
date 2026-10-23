@@ -2,6 +2,12 @@
 
 [← Avant de commencer](00-avant-de-commencer.md) · Suivant : [Ollama et modèles →](02-ollama-et-modeles.md)
 
+## Vidéo (Windows)
+
+Regardez le pas-à-pas avant ou pendant l'installation :
+
+**[▶ Vidéo d'installation](video/installation.mp4)** · [Captures étape par étape](video/README.md)
+
 Téléchargez le fichier de votre système dans **[Releases](https://github.com/RichardSSoto/Tessera/releases/latest)** (section
 *Assets*).
 

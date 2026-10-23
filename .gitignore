@@ -1,0 +1,17 @@
+# Installers go to GitHub Releases (files over 100 MB are rejected by GitHub).
+*.exe
+*.msi
+*.dmg
+*.AppImage
+*.deb
+*.app.tar.gz
+*.sig
+SHA256SUMS.txt
+
+# Study data never goes in this public repository.
+*.csv
+*.xlsx
+*.pcapng
+*.zip
+.DS_Store
+Thumbs.db
