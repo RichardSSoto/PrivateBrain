@@ -1,3 +1,6 @@
+<img width="654" height="190" alt="PrivateBrain AI Logo 2" src="https://github.com/user-attachments/assets/090f6929-f3d9-4523-9df2-b556321df700" />
+
+
 # PrivateBrain — Évaluation de Projet Technique
 
 Bienvenue et merci de participer à l’évaluation de **PrivateBrain** !
